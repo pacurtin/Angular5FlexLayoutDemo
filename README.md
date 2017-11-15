@@ -1,5 +1,10 @@
 # AngularFlexLayoutTest
 
+Working demonstration of https://alligator.io/angular/flex-layout/ tutorial on responsive angular 5 webdevelopment with flex-layout.
+I've done this to see it work and also so I have a quick reference whenever I need it at https://pacurtin.github.io/Angular5FlexLayoutDemo/
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## Development server
