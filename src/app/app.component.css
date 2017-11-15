@@ -1,0 +1,9 @@
+div .item{
+  border-width:1px;
+  border-style:solid;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  color:red;
+  background-color: darkred;
+}
